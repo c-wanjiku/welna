@@ -1,6 +1,5 @@
 import { Route, Routes } from 'react-router-dom'
 
-import './App.css'
 import MeetJoin from './components/MeetJoin'
 import SelectMic from './components/SelectMic'
 
